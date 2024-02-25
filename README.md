@@ -27,7 +27,9 @@
 - 
 <em> # Su título aquí </em>
 <h1 align="center"> Su título aquí </h1>
+
 ![logo](https://github.com/sanchezluys/curso-git-alura-1/assets/44624521/c2500557-a944-4875-9d8b-5aa9017e7c6d)
 
+![probador de diodos led-schematic](https://github.com/sanchezluys/curso-git-alura-1/assets/44624521/9ffaef75-f561-402b-960a-55607750a79a)
 
 
